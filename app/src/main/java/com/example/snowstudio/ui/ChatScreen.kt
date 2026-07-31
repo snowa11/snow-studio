@@ -1,5 +1,6 @@
-import com.example.snowstudio.data.db.MessageEntity
+package com.example.snowstudio.ui
 
+import com.example.snowstudio.data.db.MessageEntity
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.*
 import androidx.compose.foundation.shape.RoundedCornerShape
